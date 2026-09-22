@@ -1,0 +1,12 @@
+# Data: everything here is re-createable from src/ingest.py and src/ingest_laps.py.
+# The only committed data file is data/drs_zones.csv, which is hand-coded.
+data/raw/
+data/processed/
+data/cache/
+!data/drs_zones.csv
+
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.DS_Store
