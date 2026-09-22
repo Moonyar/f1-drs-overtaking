@@ -1,0 +1,378 @@
+circuit_id,year,round,n_zones,total_zone_length_m,source_url,source_type,note
+albert_park,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+osterreichring,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2000,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+osterreichring,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2001,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+osterreichring,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2002,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+osterreichring,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2003,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2004,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+istanbul,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2005,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+imola,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+istanbul,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2006,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+fuji,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+indianapolis,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+istanbul,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2007,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+fuji,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+istanbul,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+magny_cours,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+marina_bay,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+valencia,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2008,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+istanbul,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+marina_bay,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+nurburgring,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+valencia,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+yas_marina,2009,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+bahrain,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+catalunya,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hockenheimring,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+hungaroring,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+interlagos,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+istanbul,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+marina_bay,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monaco,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+monza,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+sepang,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+shanghai,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+silverstone,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+spa,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+suzuka,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+valencia,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+villeneuve,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+yas_marina,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+yeongam,2010,,0,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,DRS was introduced in 2011; no zones existed before that
+albert_park,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+buddh,2011,,2,,https://en.wikipedia.org/wiki/2011_Indian_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+catalunya,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+hungaroring,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+interlagos,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+istanbul,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+marina_bay,2011,,1,,https://en.wikipedia.org/wiki/2011_Singapore_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+monaco,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+monza,2011,,2,,https://en.wikipedia.org/wiki/2011_Italian_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+nurburgring,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+sepang,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+shanghai,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+silverstone,2011,,1,,https://en.wikipedia.org/wiki/2011_British_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+spa,2011,,1,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+suzuka,2011,,1,,https://en.wikipedia.org/wiki/2011_Japanese_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+valencia,2011,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+villeneuve,2011,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+yas_marina,2011,,2,,https://en.wikipedia.org/wiki/2011_Abu_Dhabi_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+yeongam,2011,,1,,https://en.wikipedia.org/wiki/2011_Korean_Grand_Prix,documented,two-zone circuits per Wikipedia DRS article; one zone was the 2011 default
+albert_park,2012,,2,,https://en.wikipedia.org/wiki/2012_Australian_Grand_Prix,documented,second zone added for 2012
+americas,2012,,1,,https://en.wikipedia.org/wiki/2012_United_States_Grand_Prix,documented,single zone on the back straight
+monaco,2012,,1,,https://en.wikipedia.org/wiki/2012_Monaco_Grand_Prix,documented,
+sepang,2012,,1,,https://en.wikipedia.org/wiki/2012_Malaysian_Grand_Prix,documented,"single zone, unchanged from 2011"
+suzuka,2012,,1,,https://en.wikipedia.org/wiki/2012_Japanese_Grand_Prix,documented,"single zone, 20m shorter than 2011"
+valencia,2012,,2,,https://en.wikipedia.org/wiki/2012_European_Grand_Prix,documented,
+villeneuve,2012,,2,,https://en.wikipedia.org/wiki/2012_Canadian_Grand_Prix,documented,
+yas_marina,2012,,2,,https://en.wikipedia.org/wiki/2012_Abu_Dhabi_Grand_Prix,documented,
+albert_park,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+americas,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+bahrain,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+buddh,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+catalunya,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+hungaroring,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+interlagos,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+marina_bay,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+monaco,2013,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+monza,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+nurburgring,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+sepang,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+shanghai,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+silverstone,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+spa,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+suzuka,2013,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+villeneuve,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+yas_marina,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+yeongam,2013,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,season-wide: two zones everywhere bar Monaco and Suzuka
+albert_park,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+americas,2014,,2,,https://en.wikipedia.org/wiki/2014_United_States_Grand_Prix,documented,FIA retained the two 2013 zones
+bahrain,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+catalunya,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+hockenheimring,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+hungaroring,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+interlagos,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+marina_bay,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+monaco,2014,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+monza,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+red_bull_ring,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+sepang,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+shanghai,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+silverstone,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+sochi,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+spa,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+suzuka,2014,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+villeneuve,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+yas_marina,2014,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+albert_park,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+americas,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+bahrain,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+catalunya,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+hungaroring,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+interlagos,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+marina_bay,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+monaco,2015,,1,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+monza,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+red_bull_ring,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+rodriguez,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+sepang,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+shanghai,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+silverstone,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+sochi,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+spa,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+suzuka,2015,,1,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+villeneuve,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+yas_marina,2015,,2,,https://en.wikipedia.org/wiki/2015_Japanese_Grand_Prix,documented,season-wide: Suzuka and Monaco were the only single-zone events of 2015
+BAK,2016,,2,,https://en.wikipedia.org/wiki/2016_European_Grand_Prix,documented,two zones at the new Baku circuit
+albert_park,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+americas,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+bahrain,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+catalunya,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+hockenheimring,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+hungaroring,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+interlagos,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+marina_bay,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+monaco,2016,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+monza,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+red_bull_ring,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+rodriguez,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+sepang,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+shanghai,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+silverstone,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+sochi,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+spa,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+suzuka,2016,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+villeneuve,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+yas_marina,2016,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+BAK,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+albert_park,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+americas,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+bahrain,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+catalunya,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+hungaroring,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+interlagos,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+marina_bay,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+monaco,2017,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+monza,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+red_bull_ring,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+rodriguez,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+sepang,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+shanghai,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+silverstone,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+sochi,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+spa,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+suzuka,2017,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+villeneuve,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+yas_marina,2017,,2,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,interpolated,carried from the documented and identical 2013 and 2015 patterns
+BAK,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+albert_park,2018,,3,,https://www.crash.net/f1/news/891975/1/third-drs-zone-added-australian-gp,documented,third zone added for 2018
+americas,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+bahrain,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+catalunya,2018,,3,,https://www.racefans.net/2018/06/04/fia-adds-third-drs-zone-for-canadian-grand-prix/,documented,named as an earlier 2018 third-zone circuit alongside Melbourne
+hockenheimring,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+hungaroring,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+interlagos,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+marina_bay,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+monaco,2018,,1,,https://www.racefans.net/2013/03/06/bar-tracks-drs-zones-2013-2/,documented,Monaco ran a single zone throughout this era
+monza,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+red_bull_ring,2018,,3,,https://en.wikipedia.org/wiki/2018_Austrian_Grand_Prix,documented,three zones for the first time
+ricard,2018,,2,,https://en.wikipedia.org/wiki/2018_French_Grand_Prix,documented,two zones
+rodriguez,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+shanghai,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+silverstone,2018,,3,,https://en.wikipedia.org/wiki/2018_British_Grand_Prix,documented,third zone added to the two used previously
+sochi,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+spa,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+suzuka,2018,,1,,https://www.pitpass.com/63092/Japanese-GP-Track-notes-DRS-tyres-and-more,documented,single zone on the main straight
+villeneuve,2018,,3,,https://www.racefans.net/2018/06/04/fia-adds-third-drs-zone-for-canadian-grand-prix/,documented,third zone added for 2018
+yas_marina,2018,,2,,https://en.wikipedia.org/wiki/Drag_reduction_system,interpolated,"no 2018 source found; two zones assumed, but 2018 is when third zones began"
+BAK,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+albert_park,2019,,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+americas,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+bahrain,2019,,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+catalunya,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+hockenheimring,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+hungaroring,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+interlagos,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+marina_bay,2019,,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+monaco,2019,,1,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+monza,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+red_bull_ring,2019,,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+ricard,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+rodriguez,2019,,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+shanghai,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+silverstone,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+sochi,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+spa,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+suzuka,2019,,1,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+villeneuve,2019,,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+yas_marina,2019,,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2019season_tracks.csv,documented,cross-checked against independently reported 2019 third-zone additions
+bahrain,2020,15,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+bahrain,2020,16,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,"Sakhir GP on the shorter Outer layout, one fewer zone than the Bahrain GP"
+catalunya,2020,6,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+hungaroring,2020,3,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+imola,2020,13,1,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+istanbul,2020,14,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+monza,2020,8,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+mugello,2020,9,1,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+nurburgring,2020,11,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+portimao,2020,12,1,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+red_bull_ring,2020,1,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+red_bull_ring,2020,2,3,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+silverstone,2020,4,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+silverstone,2020,5,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+sochi,2020,10,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+spa,2020,7,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
+yas_marina,2020,17,2,,https://github.com/toUpperCase78/formula1-datasets/blob/master/formula1_2020season_calendar.csv,documented,
